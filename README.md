@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+<img width="1280" alt="Screenshot 2023-06-25 at 15 46 35" src="https://github.com/oveey/GPT3-web/assets/94080967/bd5a8424-58de-4132-b898-2b04a56eb6b8">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
